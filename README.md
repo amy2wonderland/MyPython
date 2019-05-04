@@ -9,3 +9,5 @@ This will automate certain tasks in EC2: For Example when AWS have instance main
 
 Run scripts in Linux through awscli and ansible
 
+Run SAML2AWS to federate SSO into AzureAD
+
